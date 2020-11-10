@@ -9,3 +9,10 @@ I currently work with [Heidi Williams](https://heidi-williams.humsci.stanford.ed
 * Working with Professor [Heidi Williams](https://heidi-williams.humsci.stanford.edu/) studying the economics of innovation
 * Cleaned, processed, and analyzed large datasets including the United States Patent and Trademark Office's [Bulk Data Repository](https://bulkdata.uspto.gov/) and Clarivate's [Web of Science Bulk Data Collection](https://clarivate.com/webofsciencegroup/solutions/web-of-science/)
 * Completed original research projects as part of graduate-level coursework in the economics apartment. 
+
+
+### Research Intern, Federal Reserve Bank of Boston, Summer 2017 and Summer 2018
+<img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1497012825/eclz0jvo0tfi8m1rhrp2.png" alt="Federal Reserve Bank of Boston" align="right" height=100px>
+* Worked with Senior Economist [Ali Ozdagli](http://www.ozdagli.org/) studying currency and securities markets
+* Contributed to the ongoing working paper "Monetary Policy Shocks and Stock Returns: Identification Through the Impossible Trinity"
+* Also assisted with retreiving text data from FOMC communication archives using Python as part of the ongoing working paper ["FOMC Communication and Interest Rate Sensitivity to News](https://www.bostonfed.org/publications/research-department-working-paper/2017/fomc-communication-and-interest-rate-sensitivity-to-news.aspx)
