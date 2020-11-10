@@ -19,8 +19,8 @@ I currently work with [Heidi Williams](https://heidi-williams.humsci.stanford.ed
 <img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1497012825/eclz0jvo0tfi8m1rhrp2.png" alt="Federal Reserve Bank of Boston" align="right" height=100px>
 
 * Worked with Senior Economist [Ali Ozdagli](http://www.ozdagli.org/) studying currency and securities markets
-* Contributed to the ongoing working paper "Monetary Policy Shocks and Stock Returns: Identification Through the Impossible Trinity"
-* Also assisted with retreiving text data from FOMC communication archives using Python as part of the ongoing working paper ["FOMC Communication and Interest Rate Sensitivity to News](https://www.bostonfed.org/publications/research-department-working-paper/2017/fomc-communication-and-interest-rate-sensitivity-to-news.aspx)
+* Contributed to the ongoing working paper ["Monetary Policy Shocks and Stock Returns: Identification Through the Impossible Trinity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2328966)
+* Also assisted with retreiving text data from FOMC communication archives using Python as part of the ongoing working paper ["FOMC Communication and Interest Rate Sensitivity to News"](https://www.bostonfed.org/publications/research-department-working-paper/2017/fomc-communication-and-interest-rate-sensitivity-to-news.aspx)
 
 ### Research Assistant, Bowdoin College, Fall 2017 
 <img src="https://d2jyir0m79gs60.cloudfront.net/college/logos/Bowdoin_College.jpg" alt="Federal Reserve Bank of Boston" align="right" height=100px>
