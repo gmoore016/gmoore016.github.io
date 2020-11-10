@@ -1,39 +1,4 @@
-![Image of me](https://siepr.stanford.edu/sites/default/files/styles/large-profile/public/people/8376-siepr-headshots7919jpg-17.jpg?itok=Pj25HNGw)
+# About Me
+<img src="https://siepr.stanford.edu/sites/default/files/styles/large-profile/public/people/8376-siepr-headshots7919jpg-17.jpg?itok=Pj25HNGw" alt="Me!" align="right" height=400px>
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/gmoore016/gmoore016.github.io/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gmoore016/gmoore016.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I currently work with [Heidi Williams](https://heidi-williams.humsci.stanford.edu/) as a Predoctoral Research Fellow at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/). In this role I focus primarily on the economics of innovation, with special interest in health care and drug development. Other research interests of mine include the economics of education and market design. 
