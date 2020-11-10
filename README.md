@@ -2,7 +2,7 @@
 
 # About Me
 
-I currently work with [Heidi Williams](https://heidi-williams.humsci.stanford.edu/) as a Predoctoral Research Fellow at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/). In this role I focus primarily on the economics of innovation, with special interest in health care and drug development. Other research interests of mine include the economics of education and market design. 
+I currently work with [Heidi Williams](https://heidi-williams.humsci.stanford.edu/) as a Predoctoral Research Fellow at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/) (SIEPR). In this role I focus primarily on the economics of innovation, with special interest in health care and drug development. Other research interests of mine include the economics of education and market design. Prior to joining SIEPR, I completed my B. A. at Bowdoin College in 2019, studying Economics and Mathematics with a minor in Computer Science. 
 
 If you're interested in my research, you can find my projects on [GitHub](https://github.com/gmoore016). I'm also available on [LinkedIn](https://www.linkedin.com/in/gideon-moore/).
 
