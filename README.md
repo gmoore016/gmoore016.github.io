@@ -1,3 +1,5 @@
+![Image of me](https://siepr.stanford.edu/sites/default/files/styles/large-profile/public/people/8376-siepr-headshots7919jpg-17.jpg?itok=Pj25HNGw)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gmoore016/gmoore016.github.io/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
