@@ -8,7 +8,10 @@ title: Education
 ### **Predoctoral Research Fellow**
 
 ### Economics Coursework:
-* _Behavioral and Experimental Economics_--Fall 2020 with Doug Bernheim and Al Roth
+* _Economics of Higher Education_--Fall 2021 with Eric Bettinger
+* _Behavioral and Experimental Economics III_--Spring 2021 with Doug Bernheim, Muriel Niederle, and Al Roth
+* _Behavioral and Experimental Economics II_--Winter 2021 with Muriel Niederle
+* _Behavioral and Experimental Economics I_--Fall 2020 with Doug Bernheim and Al Roth
 * _Simplicity and Complexity in Economic Theory_--Spring 2020 with Mohammad Akbarpour and Paul Milgrom
 * _Market Failures and Public Policy_--Winter 2020 with Liran Einav and Heidi Williams
 * _Matching and Market Design_--Fall 2019 with Muriel Niederle, Michael Ostrovsky, and Al Roth
