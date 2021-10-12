@@ -17,14 +17,14 @@ title: Education
 <img src="images/Bowdoin_Logo.jpg" width="50%" class="center">
 </center>
 
-### **A. B., Economics and Mathematics, High Honors in Economics, Minor in Computer Science**
+### **A. B., Economics and Mathematics, Minor in Computer Science**
 
 ### Awards
 * 1987 Noyes Political Economy Prize--Awarded to the best student in political economy each year
-* _Magna cum Laude_
-* Bowdoin Book Award
-* Sarah and James Bowdoin Scholar
-* Bowdoin Faculty Scholar
+* High Honors in Economics--Awarded to students achieving distinction in economics coursework who complete a senior thesis
+* _Magna cum Laude_--Awarded to students whose overall GPA is in the top 8% of graduating class
+* Phi Beta Kappa--Membership in an academic honor society awarded to top ten percent of students in class
+* Bowdoin Book Award--Awarded to students achieving straight 'A's for an entire academic year
 
 ### Economics Coursework
 * Honors Thesis--Fall 2018-Spring 2019, supervised by John Fitzgerald
