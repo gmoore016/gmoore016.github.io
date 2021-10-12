@@ -1,6 +1,5 @@
 ---
 layout: home
-title: About Me
 ---
 
 <img src="images/SIEPR_Headshot.jpg" width="40%" align="left" style="padding-right: 30px;">

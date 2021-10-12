@@ -36,7 +36,6 @@ plugins:
 
 # Determine order of header pages
 header_pages:
- - index.markdown
  - education.markdown
  - experience.markdown
  - research.markdown
