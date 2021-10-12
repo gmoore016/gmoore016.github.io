@@ -30,6 +30,9 @@ linkedin_username: gideon-moore
 
 domain: www.gideonmoore.com
 
+# Google tracking ID
+google_analytics: G-3PEXK1E60N
+
 # Build settings
 theme: minima
 plugins:
