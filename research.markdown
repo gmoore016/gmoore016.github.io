@@ -1,6 +1,9 @@
 ---
 title: Research
 ---
+#### [Gender Quotas and Perceptions of Ability]
+
+Fall 2020-Spring 2021. Developed over the course of the _Behavioral and Experimental Economics_ sequence. 
 
 #### [A Competitive Market for Kidney Patients](documents/Moore-Gideon-Competitive-Markets-for-Kidney-Patients.pdf)
 
