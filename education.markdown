@@ -23,7 +23,7 @@ title: Education
 ### **A. B., Economics and Mathematics, Minor in Computer Science**
 
 ### Awards
-* 1987 Noyes Political Economy Prize--Awarded to the best student in political economy each year
+* 1897 Noyes Political Economy Prize--Awarded to the best student in political economy each year
 * High Honors in Economics--Awarded to students achieving distinction in economics coursework who complete a senior thesis
 * _Magna cum Laude_--Awarded to students whose overall GPA is in the top 8% of graduating class
 * Phi Beta Kappa--Membership in an academic honor society awarded to top ten percent of students in class
