@@ -24,9 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Predoctoral Research Fellow at SIEPR working with Heidi Williams. Interested in the Economics of Education, Market Design, and Innovation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.gideonmoore.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: GideonMoore
-github_username:  gmoore016
-linkedin_username: gideon-moore
 
 domain: www.gideonmoore.com
 
@@ -34,15 +31,23 @@ domain: www.gideonmoore.com
 google_analytics: G-3PEXK1E60N
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 
 # Determine order of header pages
 header_pages:
  - education.markdown
  - experience.markdown
  - research.markdown
+
+minima:
+  social_links:
+    twitter: GideonMoore
+    github: gmoore016
+    linkedin: gideon-moore
 
 # Exclude from processing.
 # The following items will not be processed, by default.
