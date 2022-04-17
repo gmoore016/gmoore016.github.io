@@ -1,9 +1,9 @@
 ---
 title: Research
 ---
-#### Gender Quotas and Perceptions of Ability
+#### [Gender Quotas and Perceptions of Ability](documents/Moore-Gideon-Gender-Quotas-and-Perceptions-of-Ability.pdf)
 
-Fall 2020-Spring 2021. Developed over the course of the _Behavioral and Experimental Economics_ sequence. 
+Fall 2020-Spring 2021. Developed over the course of the _Behavioral and Experimental Economics_ sequence. Submitted as my National Science Foundation GRFP proposal.
 
 #### [A Competitive Market for Kidney Patients](documents/Moore-Gideon-Competitive-Markets-for-Kidney-Patients.pdf)
 
