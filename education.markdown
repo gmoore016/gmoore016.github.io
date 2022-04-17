@@ -5,9 +5,15 @@ title: Education
 <img src="images/Stanford_Logo.png" width="50%" class="center">
 </center>
 
+### **Graduate Student**
+
+PhD student incoming fall of 2022
+
 ### **Predoctoral Research Fellow**
 
-### Economics Coursework:
+### Coursework:
+* _Machine Learning and Causal Inference_--Spring 2022 with Susan Athey and Stefan Wager
+* _Mining Massive Datasets_--Winter 2022 with Jure Leskovic and Mina Ghashami
 * _Economics of Higher Education_--Fall 2021 with Eric Bettinger
 * _Behavioral and Experimental Economics III_--Spring 2021 with Doug Bernheim, Muriel Niederle, and Al Roth
 * _Behavioral and Experimental Economics II_--Winter 2021 with Muriel Niederle
