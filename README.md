@@ -9,7 +9,12 @@ Notes on configuration for my personal website.
 * research.markdown: Contains links to research projects
 
 ## Configurations
-* \_config.yml: Contains website metadata and configuration parameters
+* \_config.yml: Contains primary website metadata and configuration parameters, including settings for:
+    * Title and description of webpage
+    * Google Analytics tracking
+    * Links in title bar
+    * Website theme
+    * Social media links
 * 404.html: A custom 404 page in case someone reaches a dead link from my website
 * CNAME: A document listing custom web domains
 
