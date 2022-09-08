@@ -7,7 +7,7 @@ title: Education
 
 ### **Graduate Student**
 
-PhD student incoming fall of 2022
+PhD student, started fall 2022.
 
 ### **Predoctoral Research Fellow**
 

@@ -3,15 +3,15 @@ title: Experience
 ---
 
 ### Stanford Institute for Economic Policy Research
-#### Predoctoral Research Fellow: _2019--Present_
+#### Predoctoral Research Fellow: _2019--2022_
 
 <img src="images/SIEPR_Logo.gif" width="30%" align="left" style="padding-right: 30px;">
 
-* Working with Professor [Heidi Williams](https://heidi-williams.humsci.stanford.edu/) on projects related to the economics of innovation placing special focus on innovation in health care and drug development
+* Worked with Professor [Heidi Williams](https://heidi-williams.humsci.stanford.edu/) on projects related to the economics of innovation placing special focus on innovation in health care and drug development
 
-* Process, organize, and analyze large data sets such as the United States Patent and Trademark Office Bulk Data Repository and Clarivate’s Web of Science bulk data
+* Processed, organized, and analyzed large data sets such as the United States Patent and Trademark Office Bulk Data Repository and Clarivate’s Web of Science bulk data
 
-* Conduct original research as part of ongoing graduate coursework in the Stanford Economics department
+* Conducted original research as part of graduate coursework in the Stanford Economics department
 
 &nbsp;
 

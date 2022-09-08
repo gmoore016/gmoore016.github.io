@@ -4,6 +4,6 @@ layout: home
 
 <img src="images/SIEPR_Headshot.jpg" width="40%" align="left" style="padding-right: 30px;">
 
-I currently work with Heidi Williams as a Predoctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR). In this role I focus primarily on the economics of innovation, with special interest in health care and drug development. Other research interests of mine include the economics of education and market design.
+I am currently a PhD student in the Stanford economics department interested in education, market design, and innovation. 
 
-Prior to joining SIEPR, I completed my A. B. at Bowdoin College in 2019, studying Economics and Mathematics with a minor in Computer Science.
+Prior to joining the Stanford PhD program, I worked as a Predoctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR) with Heidi Williams. I completed my A. B. at Bowdoin College in 2019, studying Economics and Mathematics with a minor in Computer Science.
