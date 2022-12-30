@@ -46,9 +46,9 @@ header_pages:
 minima:
   skin: classic
   social_links:
-    twitter: GideonMoore
-    github: gmoore016
-    linkedin: gideon-moore
+    - { platform: twitter, user_url:  "https://twitter.com/GideonMoore" }
+    - { platform: github, user_url: "https://github.com/gmoore016"}
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/gideon-moore"}
 
 # Exclude from processing.
 # The following items will not be processed, by default.
