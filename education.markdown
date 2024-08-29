@@ -9,6 +9,13 @@ title: Education
 
 PhD student, started fall 2022.
 
+### Coursework:
+* _Industrial Organization_ sequence (2023-2024)
+* _Labor Economics_ sequence (2023-2024)
+* _Public Economics I_ (2023) and _Public Economics III_ (2024)
+* _Contracts, Information, and Incentives_ with Ilya Segal
+* Micro, Macro, and Econometrics core sequences (2022-2023)
+
 ### **Predoctoral Research Fellow**
 
 ### Coursework:
