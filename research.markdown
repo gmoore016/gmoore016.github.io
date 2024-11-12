@@ -1,6 +1,11 @@
 ---
 title: Research
 ---
+
+#### [Estimating Substitution Using Text Embeddings: Evidence from the Film Industry](documents/Moore-Gideon-Estimating-Substitution-Using-Text-Embeddings.pdf)
+
+Spring 2024. My second-year paper for the Economics PhD. Replication files are available on [GitHub](https://github.com/gmoore016/Industrial-Organization-III).
+
 #### [Gender Quotas and Perceptions of Ability](documents/Moore-Gideon-Gender-Quotas-and-Perceptions-of-Ability.pdf)
 
 Fall 2020-Spring 2021. Developed over the course of the _Behavioral and Experimental Economics_ sequence. Submitted as my National Science Foundation GRFP proposal.
