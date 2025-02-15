@@ -7,7 +7,7 @@ title: Awards
 For some period of time I was the #1 most accurate forecaster on the [Social Science Prediction Platform](https://socialscienceprediction.org/), a vehicle for experts to predict the effects of untested social programs. At the time of ranking, 105 forecasters had received rankings in terms of Mean Absolute Error. The SSPP is a project of Stefano DellaVigna and Eva Vivalt, among others. 
 
 <center>
-<img src="images/SSPP_top_forecaster.png" width="50%" class="center">
+<img src="images/SSPP_top_forecaster.jpg" width="50%" class="center">
 </center>
 
 # Bowdoin College
