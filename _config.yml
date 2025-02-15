@@ -42,6 +42,7 @@ header_pages:
  - education.markdown
  - experience.markdown
  - research.markdown
+ - awards.markdown
 
 minima:
   skin: classic
