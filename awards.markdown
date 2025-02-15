@@ -2,15 +2,15 @@
 title: Awards
 ---
 
-# Social Science Prediction Platform
+## Social Science Prediction Platform
 
 For some period of time I was the #1 most accurate forecaster on the [Social Science Prediction Platform](https://socialscienceprediction.org/), a vehicle for experts to predict the effects of untested social programs. At the time of ranking, 105 forecasters had received rankings in terms of Mean Absolute Error. The SSPP is a project of Stefano DellaVigna and Eva Vivalt, among others. 
 
 <center>
-<img src="images/SSPP_top_forecaster.jpg" width="50%" class="center">
+<img src="images/SSPP_top_forecaster.jpg" width="100%" class="center">
 </center>
 
-# Bowdoin College
+## Bowdoin College
 
 At Bowdoin I received awards for my Economics work including:
 * 1897 Noyes Political Economy Prize--Awarded to the best student in political economy each year
