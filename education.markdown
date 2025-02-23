@@ -16,6 +16,16 @@ PhD student, started fall 2022.
 * _Contracts, Information, and Incentives_ with Ilya Segal
 * Micro, Macro, and Econometrics core sequences (2022-2023)
 
+### Teaching:
+* Economics 1, Fall 2024 (w/ Pete Klenow), Winter 2025 (w/ John Taylor)
+* PhD Macroeconomics I Tutor, Fall 2024
+
+### Service:
+* Founding Organizer, Student Applied Workshop (Fall 2024- Spring 2025)
+* Founding Organizer, Applied Job Market Showcase (Fall 2024)
+* Member, Economics Graduate Student Council (Fall 2022-Spring 2024)
+* Office Hour Tutor, Stanford-Spellman Mentoring Program (Fall 2022-Present)
+
 ### **Predoctoral Research Fellow**
 
 ### Coursework:
