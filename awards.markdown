@@ -10,6 +10,10 @@ For some period of time I was the #1 most accurate forecaster on the [Social Sci
 <img src="images/SSPP_top_forecaster.jpg" width="100%" class="center">
 </center>
 
+## Stanford University
+
+I received a TA award for my work in Economics 1 with Pete Klenow in fall of 2024.
+
 ## Bowdoin College
 
 At Bowdoin I received awards for my Economics work including:
