@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima@c6e74bb
+remote_theme: jekyll/minima@acb0519
 
 # Determine order of header pages
 header_pages:
