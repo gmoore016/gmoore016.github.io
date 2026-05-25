@@ -3,7 +3,7 @@ layout: home
 ---
 
 <!--- Script for obscuring email--->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/safe-email@1.1.1/dist/safe-email.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/safe-email@1.1.1/dist/safe-email.min.js" integrity="sha384-LDoX5vG5rC69DJ5YROnO9cYwP8zdpq+AK/fnDuUtkiFYIqerzEYGMjLDj/q36Ov4" crossorigin="anonymous"></script>
 
 <img src="images/year_2_headshot.jpg" width="40%" align="left" style="padding-right: 30px;">
 
