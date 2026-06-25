@@ -26,10 +26,10 @@ PhD student, started fall 2022. Committee members:
   * With Monika Piazzesi and Martin Schneider (F24)
 
 ### Service:
-* Founding Organizer, Student Applied Workshop (Fall 2024- Spring 2025)
-* Founding Organizer, Applied Job Market Showcase (Fall 2024)
+* Co-Organizer, Applied Lunch Seminar (Fall 2024- Spring 2025)
+* Founding Co-Organizer, Applied Job Market Showcase (Fall 2024)
 * Member, Economics Graduate Student Council (Fall 2022-Spring 2024)
-* Office Hour Tutor, Stanford-Spelman Mentoring Program (Fall 2022-Present)
+* Mentor, Stanford-Spelman Mentoring Partnership (Fall 2022-Present)
 
 <center>
 <img src="images/Bowdoin_Logo.jpg" width="50%" class="center">

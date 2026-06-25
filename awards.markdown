@@ -12,6 +12,8 @@ For some period of time I was the #1 most accurate forecaster on the [Social Sci
 
 ## Stanford University
 
+In the spring of 2026 I was named the Patricia Liu and Kenneth McKenna Fellow at the Stanford Institute for Economic Policy Research (SIEPR).
+
 I received a TA award for my work in Economics 1 with Pete Klenow in fall of 2024.
 
 ## Bowdoin College

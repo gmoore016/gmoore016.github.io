@@ -4,12 +4,6 @@ title: Research
 
 ## Working Papers
 
-#### The Political Content of College Courses
-
-Joint work with Jacob Light and Sam Thau.
-
-*Abstract*: Debates over ideological bias in higher education have become highly salient. We measure trends in both the presence of and type of political content across time, institutions, and academic fields based on a corpus of more than 1,000 college course catalogs covering the last 25 years. First, we develop a novel text embedding based method to measure two dimensions of ideological content in college courses: politicization, the extent to which the course engages with political content, and slant, the partisan direction of the political content. On average, we find small, precisely measured increases in average politicization and liberal slant across fields and institutions. Persistent differences between academic fields are significantly larger than these time trends. Leveraging instructors moving between institutions, we find that instructors account for roughly 60% of cross-sectional differences in political course content. Using data on course enrollment, we estimate an increase in student demand for liberal course content from 2005 until the late 2010s. This preference change has stagnated in recent years.
-
 #### [Medicare Home Health Fraud: How Much, Where, and Who?](https://www.nber.org/papers/w35280)
 
 Joint work with Liran Einav, Amy Finkelstein, Yunan Ji, and Neale Mahoney.
@@ -18,15 +12,25 @@ NBER Working Paper 35280, June 2026
 
 *Abstract*: How much fraud is there in Medicare and who commits it? We provide an answer for Medicare home health, a setting widely considered especially rife with fraud. We define a home health agency (HHA) as fraudulent if it was prosecuted by a federal strike force. Combining Medicare claims data on all HHAs with hand-collected prosecution records from the nine federal judicial districts where strike forces operated between 2009 and 2013, we train a machine learning model to predict, out of sample, the probability that each HHA in the remaining 85 districts would have been prosecuted had a strike force been present. We estimate that in 2008, 3.4% of Medicare home health spending — about $520 million — was billed by fraudulent HHAs. The strike forces were well-targeted: their nine districts contained only 40% of home health spending but 65% of fraudulent spending. Fraudulent HHAs display intuitive characteristics: they are more likely to rely on extremely high-volume referring physicians, to exhibit unusually uniform patterns of care, and to serve healthier-than-average patients.
 
+## Works in Progress
+
+#### The Political Content of College Courses
+
+Joint work with Jacob Light and Samuel Thau.
+
+*Abstract*: Debates over ideological bias in higher education have become highly salient. We measure trends in both the presence of and type of political content across time, institutions, and academic fields based on a corpus of more than 1,000 college course catalogs covering the last 25 years. First, we develop a novel text embedding based method to measure two dimensions of ideological content in college courses: politicization, the extent to which the course engages with political content, and slant, the partisan direction of the political content. On average, we find small, precisely measured increases in average politicization and liberal slant across fields and institutions. Persistent differences between academic fields are significantly larger than these time trends. Leveraging instructors moving between institutions, we find that instructors account for roughly 60% of cross-sectional differences in political course content. Using data on course enrollment, we estimate an increase in student demand for liberal course content from 2005 until the late 2010s. This preference change has stagnated in recent years.
+
 #### Learning-by-Doing and the Life Cycle of Innovation
 
-Joint work with Janet Stefanov and Sam Thau.
+Joint work with Janet Stefanov and Samuel Thau.
 
-*Abstract*: What distinguishes the roller paintbrush from acrylic resin? Although both were process improvements in the painting industry, the former was a byproduct of hardware store owner Norman Breakey's production tasks, while the latter emerged from the chemistry lab of Dr. Otto Rohm. This paper argues these two ideas represent different types of innovative processes--practitioner-led "learning-by-doing" and researcher-led formal innovation, respectively.
+*Abstract*: Orville and Wilbur Wright developed their famous glider while working as bicycle repairmen—despite neither finishing high school. Today, innovations in flight are not so easy to come by: in 2025 Lockheed Martin employed more than 30,000 PhDs as part of the nearly 2 billion dollars it spends on research each year. We show this shift—from practitioner learning-by-doing to dedicated research—is emblematic of a broader "life cycle" of innovation within an industry. Using a novel text-as-data method to identify idea sources based on patent content, we document a decline in learning-by-doing both within and across fields from 1976-2010; this trend has reversed in recent years. Motivated by this fact, we develop a novel growth model incorporating both sources of innovation. This model implies optimal innovation policy depends on the maturity of an industry: young industries benefit from procurement policies which harness the benefits of learning-by-doing, while more mature industries warrant more dedicated R&D subsidies.
 
-We develop a novel growth model incorporating both sources of innovation. Based on our model, we argue that industries exhibit a "life cycle," initially relying on learning-by-doing until diminishing returns drive them to invest in a formal research sector. The model has implications for optimal policy, suggesting that optimal research programs may prefer production-based policies like procurement for young industries relative to more traditional R&D subsidies.
+#### Target What? A Conceptual and Empirical Exploration of the Foundations of Poverty Targeting
 
-To bring this model to data, we construct a novel text-as-data measure of idea origin. By comparing patent content to worker vs. researcher knowledge, we estimate whether individual patents were produced via learning-by-doing or formal research. Based on this measure, we show a decline in learning-by-doing over the latter half of the 20th century--consistent with our model predictions. Moreover, we extend this measure to estimate industry-to-industry technology spillovers heterogeneously by innovation type.
+Joint work with Abhijit Banerjee, Emily Breza, Arun Chandrasekhar, Rema Hanna, and Ben Olken.
+
+*Abstract*: Standard anti-poverty programs target consumption. To maximize welfare, this implicitly assumes homogeneous preferences, wherein lowest consumption yields the highest marginal utility. However, unobserved heterogeneity can misalign marginal utility from consumption. Furthermore, there is no reason for society's normative valuation to align with private utility; crucially, marginal social valuation from a transfer need not align with social valuation in levels. Surveying 6,000 respondents across 600 Indonesian villages, we prove these concepts are empirically distinct. Targeting lowest consumption misses 77% of households with the highest marginal social valuation; targeting lowest social valuation in levels misses 25%. Communities exhibit strong consensus on this wedge, alongside structured heterogeneity in normative perspectives. Consequently, targeting mechanisms enforce distinct normative choices. In a randomized controlled trial, proxy means tests target consumption, self-targeting ordeals capture revealed preference, and community targeting distinctively incorporates marginal social valuation. Recalibrating proxies cannot match community targeting, proving locals utilize critical unobservable information.
 
 ## Dormant Projects
 
