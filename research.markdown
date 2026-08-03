@@ -4,7 +4,7 @@ title: Research
 
 ## Working Papers
 
-### [Time Travel on Professional Profiles](https://www.nber.org/papers/w35546)
+#### [Time Travel on Professional Profiles](https://www.nber.org/papers/w35546)
 
 Joint work with Nick Bloom, Lisa K. Simon, and Caelan Wilkie-Rogers.
 
