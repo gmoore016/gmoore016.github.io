@@ -4,6 +4,14 @@ title: Research
 
 ## Working Papers
 
+### [Time Travel on Professional Profiles](https://www.nber.org/papers/w35546)
+
+Joint work with Nick Bloom, Lisa K. Simon, and Caelan Wilkie-Rogers.
+
+NBER Working Paper 35546, July 2026
+
+*Abstract*: Economists increasingly use professional profile data to reconstruct employment histories and measure skill supply. We show that these records are not fixed historical snapshots, but mutable accounts that workers revise over time. Using monthly vintages of Revelio Labs data from 2020–2026, we document that 19.7 percent of established U.S. LinkedIn users retroactively edit the title or description of a job they have already left. These “time-travel” edits are closely tied to labor market transitions: around such edits, workers are much more likely to change employers as compared to later-editing users. This mutability can bias historical measures of skills, but it also reveals workers’ beliefs about which skills are in demand. Retroactive edits show sharp post-2022 increases in AI-related language and recent reductions in work-from-home and DEI language. Finally, LLM-associated writing markers surge after ChatGPT, especially among less-educated groups and MBAs from lower-ranked programs, revealing heterogeneous AI-assisted profile editing.
+
 #### [Medicare Home Health Fraud: How Much, Where, and Who?](https://www.nber.org/papers/w35280)
 
 Joint work with Liran Einav, Amy Finkelstein, Yunan Ji, and Neale Mahoney.
