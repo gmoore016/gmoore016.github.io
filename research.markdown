@@ -4,7 +4,7 @@ title: Research
 
 ## Working Papers
 
-#### [The Political Content of College Courses](https://jacob-light.github.io/COLLEGE-POLITICS.PDF)
+#### [The Political Content of College Courses](https://jacob-light.github.io/college-politics.pdf)
 
 Joint work with Jacob Light and Samuel Thau.
 
