@@ -4,6 +4,13 @@ title: Research
 
 ## Working Papers
 
+#### [The Political Content of College Courses](https://jacob-light.github.io/COLLEGE-POLITICS.PDF)
+
+Joint work with Jacob Light and Samuel Thau.
+
+*Abstract*: Debates over ideological bias in higher education have become highly salient. We measure trends in both the presence of and type of political content across time, institutions, and academic fields based on a corpus of more than 1,000 college course catalogs covering the last 25 years. First, we develop a novel text embedding based method to measure two dimensions of ideological content in college courses: politicization, the extent to which the course engages with political content, and slant, the partisan direction of the political content. On average, we find small, precisely measured increases in average politicization and liberal slant across fields and institutions. Persistent differences between academic fields are significantly larger than these time trends. Leveraging instructors moving between institutions, we find that instructors account for roughly 60% of cross-sectional differences in political course content. Using data on course enrollment, we estimate an increase in student demand for liberal course content from 2005 until the late 2010s. This preference change has stagnated in recent years.
+
+
 #### [Time Travel on Professional Profiles](https://www.nber.org/papers/w35546)
 
 Joint work with Nick Bloom, Lisa K. Simon, and Caelan Wilkie-Rogers.
@@ -21,12 +28,6 @@ NBER Working Paper 35280, June 2026
 *Abstract*: How much fraud is there in Medicare and who commits it? We provide an answer for Medicare home health, a setting widely considered especially rife with fraud. We define a home health agency (HHA) as fraudulent if it was prosecuted by a federal strike force. Combining Medicare claims data on all HHAs with hand-collected prosecution records from the nine federal judicial districts where strike forces operated between 2009 and 2013, we train a machine learning model to predict, out of sample, the probability that each HHA in the remaining 85 districts would have been prosecuted had a strike force been present. We estimate that in 2008, 3.4% of Medicare home health spending — about $520 million — was billed by fraudulent HHAs. The strike forces were well-targeted: their nine districts contained only 40% of home health spending but 65% of fraudulent spending. Fraudulent HHAs display intuitive characteristics: they are more likely to rely on extremely high-volume referring physicians, to exhibit unusually uniform patterns of care, and to serve healthier-than-average patients.
 
 ## Works in Progress
-
-#### The Political Content of College Courses
-
-Joint work with Jacob Light and Samuel Thau.
-
-*Abstract*: Debates over ideological bias in higher education have become highly salient. We measure trends in both the presence of and type of political content across time, institutions, and academic fields based on a corpus of more than 1,000 college course catalogs covering the last 25 years. First, we develop a novel text embedding based method to measure two dimensions of ideological content in college courses: politicization, the extent to which the course engages with political content, and slant, the partisan direction of the political content. On average, we find small, precisely measured increases in average politicization and liberal slant across fields and institutions. Persistent differences between academic fields are significantly larger than these time trends. Leveraging instructors moving between institutions, we find that instructors account for roughly 60% of cross-sectional differences in political course content. Using data on course enrollment, we estimate an increase in student demand for liberal course content from 2005 until the late 2010s. This preference change has stagnated in recent years.
 
 #### Learning-by-Doing and the Life Cycle of Innovation
 
