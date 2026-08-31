@@ -4,7 +4,7 @@ title: Research
 
 ## Working Papers
 
-#### The Political Content of College Courses
+#### [The Political Content of College Courses](https://siepr.stanford.edu/publications/working-paper/political-content-college-courses)
 
 Joint work with Jacob Light and Samuel Thau.
 
