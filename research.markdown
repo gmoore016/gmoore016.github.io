@@ -8,6 +8,8 @@ title: Research
 
 Joint work with Jacob Light and Samuel Thau.
 
+SIEPR Working Paper 26-19, August 2026
+
 *Abstract*: We measure two dimensions of politics in college courses - the amount of political content and its partisan orientation - using course descriptions from nearly 1,000 U.S. colleges and universities over the past 25 years. Using a novel text-as-data method, we separate the amount of "political content," the extent to which a course engages with topics salient to politics and public policy, from "slant," the partisan direction of that content. Since 2000, the average course has 0.15 SD more political content and 0.13 SD more liberal slant. Changes are most pronounced in the tails of the distribution, particularly for slant, and are modest relative to persistent cross-field differences. Following instructors who move between institutions, we find that instructors account for 60-65% of cross-sectional differences in course political content and slant. Using enrollment data, we find students show no preference for liberal content before the 2010s; demand for liberal content rises over the following decade, peaks in 2020, and falls slightly thereafter.
 
 
