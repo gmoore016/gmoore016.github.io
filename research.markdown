@@ -49,7 +49,7 @@ Joint work with Abhijit Banerjee, Emily Breza, Arun Chandrasekhar, Rema Hanna, a
 
 Spring 2024. My second-year paper for the Economics PhD. Replication files are available on [GitHub](https://github.com/gmoore016/Industrial-Organization-III).
 
-*Abstract*: Using text descriptions of films in conjunction with weekly box office receipts, I develop a novel model of characteristic-space competition in the film industry. By exploiting plausably exogeneous variation in film release windows, I identify the impact of competitor characteristics on film revenue. As films become more similar, the impact of competition increases. Due to the film industry’s thin profit margins and high fixed costs, replacing a competitor in the 10th percentile of similarity with one in the 90th percentile can reduce profit by as much as 47%.
+*Abstract*: Using text descriptions of films in conjunction with weekly box office receipts, I develop a novel model of characteristic-space competition in the film industry. By exploiting plausibly exogenous variation in film release windows, I identify the impact of competitor characteristics on film revenue. As films become more similar, the impact of competition increases. Due to the film industry’s thin profit margins and high fixed costs, replacing a competitor in the 10th percentile of similarity with one in the 90th percentile can reduce profit by as much as 47%.
 
 #### [A Competitive Market for Kidney Patients](documents/Moore-Gideon-Competitive-Markets-for-Kidney-Patients.pdf)
 
@@ -67,5 +67,5 @@ Fall 2019. My term paper for _Matching and Market Design_ taught by Muriel Niede
 
 Spring 2019. My undergraduate thesis; received High Honors from the Economics department. Supervised by John Fitzgerald, and later advised by Matthew Botsch and Dan Stone. Also available at the [Bowdoin Digital Commons](https://digitalcommons.bowdoin.edu/honorsprojects/120/). Replication files are available on [GitHub](https://github.com/gmoore016/honors).
 
-High student debt has been hypothesized to affect career choice, causing students todesire stable, high paying jobs. To test this hypothesis, I rely on plausibly exogenous variation in debt due to a federal policy shift. In the summer of 2007, the Higher Education Reconciliation Act (or HERA) expanded the cap for federally subsidized
+*Abstract*: High student debt has been hypothesized to affect career choice, causing students to desire stable, high paying jobs. To test this hypothesis, I rely on plausibly exogenous variation in debt due to a federal policy shift. In the summer of 2007, the Higher Education Reconciliation Act (or HERA) expanded the cap for federally subsidized
 student loans. I examine how variation in debt affects career choice and eventual salary of students using data from the National Longitudinal Survey of Youth 1979 Child and Young Adult Cohort of students who were of college age during the implementation of the policy. I find that student debt has no impact on salary two years after graduation; however, it does seem to shift students’ career choices, leading some to avoid careers in public service industries such as teaching and social work.

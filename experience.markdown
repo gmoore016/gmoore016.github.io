@@ -21,7 +21,7 @@ title: Experience
 <img src="images/Fed_Logo.png" width="30%" align="left" style="padding-right: 30px;">
 
 * Worked with Senior Economist [Ali Ozdagli](https://www.ozdagli.org/) studying currency exchange and securities pricing
-* collected and analyzed data for ongoing working paper ["Monetary Shocks and Stock Returns: Identification Through the Impossible Trinity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2328966)
+* Collected and analyzed data for ongoing working paper ["Monetary Shocks and Stock Returns: Identification Through the Impossible Trinity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2328966)
 * Used Python to process bulk PDF archives to gather data for ["FOMC Communication and Interest Rate Sensitivity to News"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3075842)
 
 &nbsp;
@@ -33,5 +33,5 @@ title: Experience
 
 <img src="images/Bowdoin_Logo.jpg" width="30%" align="left" style="padding-right: 30px;">
 
-* Worked with Assistant Professors [Matthew Botsch](http://econgrads.berkeley.edu/mjbotsch/) and [Stephen Morris](https://sites.google.com/site/stephendmorris0/)
-* Helped collect data for ["Job Loss, Expected Mobility, and Home Ownership"](http://econgrads.berkeley.edu/mjbotsch/files/2019/08/bm19.pdf)
+* Worked with Assistant Professors [Matthew Botsch](https://www.bowdoin.edu/profiles/faculty/mbotsch/) and [Stephen Morris](https://sites.google.com/site/stephendmorris0/)
+* Helped collect data for ["Job Loss Risk, Expected Mobility, and Home Ownership"](https://doi.org/10.1016/j.jhe.2020.101733)
