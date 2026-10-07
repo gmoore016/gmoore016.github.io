@@ -55,6 +55,9 @@ minima:
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/gideon-moore"
+    - title: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=5KuzksUAAAAJ"
     - title: BlueSky
       icon: bluesky
       url: "https://bsky.app/profile/gideonmoore.bsky.social"
