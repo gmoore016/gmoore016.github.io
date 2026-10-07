@@ -7,7 +7,7 @@ title: Experience
 
 <img src="images/SIEPR_Logo.gif" width="30%" align="left" style="padding-right: 30px;">
 
-* Worked with Professor [Heidi Williams](https://heidi-williams.humsci.stanford.edu/) on projects related to the economics of innovation placing special focus on innovation in health care and drug development
+* Worked with Professor [Heidi Williams](https://sites.google.com/view/heidi-l-williams/home) on projects related to the economics of innovation placing special focus on innovation in health care and drug development
 
 * Processed, organized, and analyzed large data sets such as the United States Patent and Trademark Office Bulk Data Repository and Clarivate’s Web of Science bulk data
 
