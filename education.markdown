@@ -27,7 +27,7 @@ PhD in Economics, Fall 2022–Anticipated 2028. Committee members:
 
 ### Service:
 * Co-Organizer, Applied Lunch Seminar (Fall 2024- Spring 2025)
-* Founding Co-Organizer, Applied Job Market Showcase (Fall 2025)
+* Founding Co-Organizer, Applied Job Market Showcase (Fall 2024)
 * Member, Economics Graduate Student Council (Fall 2022-Spring 2024)
 * Mentor, Stanford-Spelman Mentoring Partnership (Fall 2022–2026)
 
@@ -37,7 +37,7 @@ PhD in Economics, Fall 2022–Anticipated 2028. Committee members:
 
 ### **A. B., Economics and Mathematics, Minor in Computer Science**
 
-2015–2019, advised by [John Fitzgerald](https://www.bowdoin.edu/profiles/faculty/jfitzger/index.html).
+Class of 2019, advised by [John Fitzgerald](https://www.bowdoin.edu/profiles/faculty/jfitzger/index.html).
 
 &nbsp;
 

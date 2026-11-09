@@ -45,13 +45,6 @@ Joint work with Janet Stefanov and Samuel Thau.
 
 *Abstract*: Orville and Wilbur Wright developed their famous glider while working as bicycle repairmen—despite neither finishing high school. Today, innovations in flight are not so easy to come by: in 2025 Lockheed Martin employed more than 30,000 PhDs as part of the nearly 2 billion dollars it spends on research each year. We show this shift—from practitioner learning-by-doing to dedicated research—is emblematic of a broader "life cycle" of innovation within an industry. Using a novel text-as-data method to identify idea sources based on patent content, we document a decline in learning-by-doing both within and across fields from 1976-2010; this trend has reversed in recent years. Motivated by this fact, we develop a novel growth model incorporating both sources of innovation. This model implies optimal innovation policy depends on the maturity of an industry: young industries benefit from procurement policies which harness the benefits of learning-by-doing, while more mature industries warrant more dedicated R&D subsidies.
 
-## Seminars and Conferences
-
-* Department of Economics Seminar, Bowdoin College, October 2026
-* NBER Health Care Administration and Fraud Conference, October 2026
-* Allied Social Science Associations Annual Meeting, January 2026
-* All-California Labor Economics Conference, August 2025
-
 ## Dormant Projects
 
 #### [Estimating Substitution Using Text Embeddings: Evidence from the Film Industry](documents/Moore-Gideon-Estimating-Substitution-Using-Text-Embeddings.pdf)
