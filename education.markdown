@@ -7,7 +7,7 @@ title: Education
 
 ### **Graduate Student**
 
-PhD student, started fall 2022. Committee members:
+PhD in Economics, Fall 2022–Anticipated 2028. Committee members:
 * [__Nicholas Bloom__](https://nbloom.people.stanford.edu/)
 * [Liran Einav](https://leinav.people.stanford.edu/)
 * [Isaac Sorkin](https://sites.google.com/site/isaacsorkin/home)
@@ -29,7 +29,7 @@ PhD student, started fall 2022. Committee members:
 * Co-Organizer, Applied Lunch Seminar (Fall 2024- Spring 2025)
 * Founding Co-Organizer, Applied Job Market Showcase (Fall 2024)
 * Member, Economics Graduate Student Council (Fall 2022-Spring 2024)
-* Mentor, Stanford-Spelman Mentoring Partnership (Fall 2022-Present)
+* Mentor, Stanford-Spelman Mentoring Partnership (Fall 2022–2026)
 
 <center>
 <img src="images/Bowdoin_Logo.jpg" width="50%" class="center">

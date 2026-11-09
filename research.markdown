@@ -23,7 +23,7 @@ SIEPR Working Paper 26-19, August 2026
 
 #### [Time Travel on Professional Profiles](https://www.nber.org/papers/w35546)
 
-Joint work with Nick Bloom, Lisa K. Simon, and Caelan Wilkie-Rogers.
+Joint work with Nicholas Bloom, Lisa K. Simon, and Caelan Wilkie-Rogers.
 
 NBER Working Paper 35546, July 2026
 
