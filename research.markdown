@@ -6,7 +6,7 @@ title: Research
 
 #### [Target What? The Foundations of Poverty Targeting](https://www.nber.org/papers/w35984)
 
-Joint work with Abhijit Banerjee, Emily Breza, Arun Chandrasekhar, Rema Hanna, and Ben Olken.
+Rema Hanna ⓡ Emily Breza ⓡ Benjamin A. Olken ⓡ Abhijit Banerjee ⓡ Arun G. Chandrasekhar ⓡ Gideon Moore
 
 NBER Working Paper 35984, November 2026
 
