@@ -4,6 +4,14 @@ title: Research
 
 ## Working Papers
 
+#### [Target What? The Foundations of Poverty Targeting](https://www.nber.org/papers/w35984)
+
+Joint work with Abhijit Banerjee, Emily Breza, Arun Chandrasekhar, Rema Hanna, and Ben Olken.
+
+NBER Working Paper 35984, November 2026
+
+*Abstract*: Most government transfer programs aim to target the poor. Doing so implicitly assumes that the lowest-consumption households have the highest marginal social valuation, i.e., have the highest social welfare gain from an additional dollar. But this need not be the case. In 600 Indonesian villages, we ask over 5,500 villagers to rank other villagers on how well off they are and how much a modest cash transfer would help them, and compare these rankings to consumption and self-assessed welfare. Targeting consumption misses 77% of households with the highest marginal social valuation. Targeting self-assessed welfare misses 57%. Even targeting those the community ranks worst off in levels, not margins, misses 25%. Divergences between different notions of neediness are statistically predictable. In a randomized controlled trial, proxy means tests best target consumption, self-targeting ordeals capture self-assessed welfare levels, and community targeting comes closest to marginal social valuation. Targeting strategies inescapably embed normative stances.
+
 #### [The Political Content of College Courses](https://siepr.stanford.edu/publications/working-paper/political-content-college-courses)
 
 Joint work with Jacob Light and Samuel Thau.
@@ -36,12 +44,6 @@ NBER Working Paper 35280, June 2026
 Joint work with Janet Stefanov and Samuel Thau.
 
 *Abstract*: Orville and Wilbur Wright developed their famous glider while working as bicycle repairmen—despite neither finishing high school. Today, innovations in flight are not so easy to come by: in 2025 Lockheed Martin employed more than 30,000 PhDs as part of the nearly 2 billion dollars it spends on research each year. We show this shift—from practitioner learning-by-doing to dedicated research—is emblematic of a broader "life cycle" of innovation within an industry. Using a novel text-as-data method to identify idea sources based on patent content, we document a decline in learning-by-doing both within and across fields from 1976-2010; this trend has reversed in recent years. Motivated by this fact, we develop a novel growth model incorporating both sources of innovation. This model implies optimal innovation policy depends on the maturity of an industry: young industries benefit from procurement policies which harness the benefits of learning-by-doing, while more mature industries warrant more dedicated R&D subsidies.
-
-#### Target What? A Conceptual and Empirical Exploration of the Foundations of Poverty Targeting
-
-Joint work with Abhijit Banerjee, Emily Breza, Arun Chandrasekhar, Rema Hanna, and Ben Olken.
-
-*Abstract*: Standard anti-poverty programs target consumption. To maximize welfare, this implicitly assumes homogeneous preferences, wherein lowest consumption yields the highest marginal utility. However, unobserved heterogeneity can misalign marginal utility from consumption. Furthermore, there is no reason for society's normative valuation to align with private utility; crucially, marginal social valuation from a transfer need not align with social valuation in levels. Surveying 6,000 respondents across 600 Indonesian villages, we prove these concepts are empirically distinct. Targeting lowest consumption misses 77% of households with the highest marginal social valuation; targeting lowest social valuation in levels misses 25%. Communities exhibit strong consensus on this wedge, alongside structured heterogeneity in normative perspectives. Consequently, targeting mechanisms enforce distinct normative choices. In a randomized controlled trial, proxy means tests target consumption, self-targeting ordeals capture revealed preference, and community targeting distinctively incorporates marginal social valuation. Recalibrating proxies cannot match community targeting, proving locals utilize critical unobservable information.
 
 ## Dormant Projects
 
