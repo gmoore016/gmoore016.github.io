@@ -12,7 +12,7 @@ layout: home
 
 I am currently a PhD student in Economics at Stanford University. My research is in labor, industrial organization, and innovation. 
 
-My research has been covered in [_The Wall Street Journal_](https://www.wsj.com/tech/ai/job-seekers-are-racing-to-ai-proof-their-resumes-f310f43c?st=uQ3EQV&reflink=desktopwebshare_permalink), the [_Financial Times_](https://www.ft.com/content/d94c4b29-fb76-4985-ba48-26d63cf821b3?syn-25a6b1a6=1), and [_Bloomberg_](https://www.bloomberg.com/opinion/articles/2026-08-18/linkedin-profile-revisions-are-their-own-form-of-job-market-data), among other outlets.
+My research has been covered in [_The Wall Street Journal_](https://www.wsj.com/tech/ai/job-seekers-are-racing-to-ai-proof-their-resumes-f310f43c?st=uQ3EQV&reflink=desktopwebshare_permalink), [_The New York Times_](https://www.nytimes.com/2026/11/15/business/tech-jobs-ai-ecosystem.html), the [_Financial Times_](https://www.ft.com/content/d94c4b29-fb76-4985-ba48-26d63cf821b3?syn-25a6b1a6=1), and [_Bloomberg_](https://www.bloomberg.com/opinion/articles/2026-08-18/linkedin-profile-revisions-are-their-own-form-of-job-market-data), among other outlets.
 
 Prior to joining the Stanford PhD program, I worked as a Predoctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR) with Heidi Williams. I completed my A.B. at Bowdoin College in 2019, studying Economics and Mathematics with a minor in Computer Science.
 
