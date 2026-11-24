@@ -19,6 +19,7 @@ See my [Teaching](teaching.html) page for courses, evaluations, and mentoring.
 * Co-Organizer, Applied Lunch Seminar (Fall 2024- Spring 2025)
 * Founding Co-Organizer, Applied Job Market Showcase (Fall 2024)
 * Member, Economics Graduate Student Council (Fall 2022-Spring 2024)
+* Mentor, Stanford-Spelman Mentoring Partnership (Fall 2022–present)
 
 <center>
 <img src="images/Bowdoin_Logo.jpg" width="50%" class="center">
