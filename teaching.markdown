@@ -2,7 +2,6 @@
 title: Teaching
 ---
 
-### Courses:
 * Economics 1
   * With Pete Klenow (F24), John Taylor (W25), and Isaac Sorkin (S25, F25)
   * Departmental TA Award, Fall 2024
@@ -13,10 +12,6 @@ title: Teaching
     * "I went in with no background in Econ... Because of his support, I am leaving Econ 1 feeling confident about what I learned, and what I might want to continue to learn in the field."
 * PhD Macroeconomics I Tutor
   * With Monika Piazzesi and Martin Schneider (F24)
-
-### Curriculum Development:
 * Course Prep Assistant, Economics 1, with Isaac Sorkin (Summer 2025)
   * Wrote problem sets and exams, and refined slides and lecture notes
-
-### Mentoring:
 * Mentor, Stanford-Spelman Mentoring Partnership (Fall 2022–2026)
